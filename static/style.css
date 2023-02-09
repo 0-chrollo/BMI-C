@@ -1,4 +1,8 @@
-#background-image {
+
+    
+    
+    
+    #background-image {
   background-image: url('bg.jpg');
   background-size: cover;
   background-position: center;
@@ -38,5 +42,4 @@ body {
   text-align: center;
   padding: 10px;
 }
-
-
+    
